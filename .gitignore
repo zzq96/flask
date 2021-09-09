@@ -1,0 +1,10 @@
+BoxData/
+output/
+imgs/
+BagData/
+.vscode/settings.json
+output copy/
+output_box/
+*.zip
+BagData_alan/
+output_bag/
